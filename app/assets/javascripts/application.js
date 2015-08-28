@@ -15,3 +15,8 @@ limelik// This is a manifest file that'll be compiled into application.js, which
 //= require bootstrap
 //= require turbolinks
 //= require_tree .
+
+
+// vsidfuhosdfijvosifboidfbdf
+// when you add // at the beginning of a line....
+
